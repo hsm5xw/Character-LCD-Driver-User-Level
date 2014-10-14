@@ -9,8 +9,9 @@ This is a user level Linux driver to control a 16x2 character LCD (with HD44780 
 The LCD is interfaced with a micro-controller using GPIO pins. 
 The program has been tested on Linux 3.8.13 debian, and the target board is Beaglebone Black ARM micro-controller.
 
-The datasheet was found from here: 		 https://www.sparkfun.com/datasheets/LCD/HD44780.pdf
-And the LCD was purchased from here:	 http://www.amazon.com/gp/product/B004MGXOUQ/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1	
+- The datasheet was found from here: 	 https://www.sparkfun.com/datasheets/LCD/HD44780.pdf
+
+- And the LCD was purchased from here:	 http://www.amazon.com/gp/product/B004MGXOUQ/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1	
 
 
 						Reference
