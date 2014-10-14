@@ -14,8 +14,8 @@ The program has been tested on Linux 3.8.13 debian, and the target board is Beag
 - And the LCD was purchased from here:	 http://www.amazon.com/gp/product/B004MGXOUQ/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1	
 
 
-						Reference
-	[1] HD44780U (LCD-II), Hitachi Ltd., Tokyo, Japan, 1998.
+	Reference
+		[1] HD44780U (LCD-II), Hitachi Ltd., Tokyo, Japan, 1998.
 
 
 	
