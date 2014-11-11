@@ -3,7 +3,7 @@ Character-LCD-Driver-User-Level
 
 a user level Linux driver program for 16x2 character LCD (with HD44780 LCD controller) with 4 bit mode
 
-![alt tag](https://raw.github.com/hsm5xw/Character-LCD-Driver-User-Level/master/demo.JPG)
+![alt tag](https://raw.github.com/hsm5xw/Character-LCD-Driver-User-Level/personal/demo.JPG)
 
 This is a user level Linux driver to control a 16x2 character LCD (with HD44780 LCD controller) with 4 bit mode.
 The LCD is interfaced with a micro-controller using GPIO pins. 
